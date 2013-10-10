@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
 gem 'devise', '~> 3.1.0.rc2'
+gem 'paperclip', '~> 3.0'
+
 
 
 # Use SCSS for stylesheets
